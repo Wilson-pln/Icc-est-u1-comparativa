@@ -1,6 +1,6 @@
 package benchmark;
 
-public class Results {
+public class Resultado {
 
     private String functionName;
     private long duration;

@@ -1,12 +1,12 @@
 
-package app;
+package APP;
 
 import benchmark.Resultado;
 import experimento.Controlador;
 
 import java.util.List;
 
-public class Main {
+public class App {
 
     public static void main(String[] args) {
 
